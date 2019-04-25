@@ -16,7 +16,7 @@ const New = (props) => {
                     <p>{ description }</p>
                 </div>
                 <div className="card-action">
-                    <a href={url} target="_blank" className="waves-effect waves-light btn">Read</a>
+                    <a href={url} target="__blank" className="waves-effect waves-light btn">Read</a>
                 </div>
             </div>
         </div>
